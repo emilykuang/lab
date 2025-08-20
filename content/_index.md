@@ -1,21 +1,22 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2025-08-20
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Dr. Kuang's
-        Research Group
+        COCOA
+        Research Lab
       image:
-        filename: welcome.jpg
+        filename: COCOA-lab.png
       text: |
         <br>
         
-        We focus on Human-Computer Interaction (HCI) and Artificial Intelligence (AI).
+        The <b>COCOA (CO-designing COllaborations with AI)</b> lab explores how humans and AI can collaborate effectively, designing intelligent interactive systems that enhance human productivity and empower diverse users. 
+        We combine Human-Computer Interaction, AI, and accessibility research to create  collaborative tools and adaptive interfaces that support real-world tasks and emerging virtual experiences.
   
   # - block: collection
   #   content:
