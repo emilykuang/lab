@@ -6,7 +6,7 @@ title: 'Exploring the Impact of Artificial Intelligence-Generated Content (AIGC)
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Ziyan Wang
-  - Luyao She
+  - Luyao Shen
   - admin
   - Shumeng Zhang
   - Mingming Fan
