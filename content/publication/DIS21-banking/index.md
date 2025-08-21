@@ -26,10 +26,10 @@ publishDate: '2021-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *ACM Designing Interactive Systems Conference*
-publication_short: In *DIS*
+publication: '*ACM Designing Interactive Systems Conference*'
+publication_short: '*DIS*'
 
-abstract: The banking industry has been integrating digital technologies globally. However, accepting new technologies is challenging in particular for older adults. We focus on older adults’ banking experiences in China, where digital transactions have been growing rapidly, to provide a perspective on how they adapt to this trend. We conducted an online survey with 155 older adults who are 60 or above (M = 70, SD = 9) from 18 provinces to explore their banking practices and challenges. Our results show that older adults conduct banking transactions frequently. However, few do so using digital platforms despite long wait times in physical banks. The main concerns reported by them are about security and usability. Nonetheless, they hold a positive attitude towards digital platforms (e.g., apps, virtual banks). Interestingly, age and gender have significant effects on particular banking behaviors. We discuss our findings in the context of prior studies and highlight design opportunities for improving banking accessibility for older adults.
+abstract: 'The banking industry has been integrating digital technologies globally. However, accepting new technologies is challenging in particular for older adults. We focus on older adults’ banking experiences in China, where digital transactions have been growing rapidly, to provide a perspective on how they adapt to this trend. We conducted an online survey with 155 older adults who are 60 or above (M = 70, SD = 9) from 18 provinces to explore their banking practices and challenges. Our results show that older adults conduct banking transactions frequently. However, few do so using digital platforms despite long wait times in physical banks. The main concerns reported by them are about security and usability. Nonetheless, they hold a positive attitude towards digital platforms (e.g., apps, virtual banks). Interestingly, age and gender have significant effects on particular banking behaviors. We discuss our findings in the context of prior studies and highlight design opportunities for improving banking accessibility for older adults.'
 
 # Summary. An optional shortened abstract.
 summary: ''

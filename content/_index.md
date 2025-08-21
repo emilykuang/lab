@@ -15,27 +15,36 @@ sections:
       text: |
         <br>
         
-        The <b>COCOA (CO-designing COllaborations with AI)</b> lab explores how humans and AI can collaborate effectively, designing intelligent interactive systems that enhance human productivity and empower diverse users. 
+        The <b>COCOA (CO-designing COllaborations with AI)</b> Lab explores how humans and AI can collaborate effectively, designing intelligent interactive systems that enhance human productivity and empower diverse users. 
         We combine Human-Computer Interaction, AI, and accessibility research to create  collaborative tools and adaptive interfaces that support real-world tasks and emerging virtual experiences.
   
-  # - block: collection
-  #   content:
-  #     title: Latest News
-  #     subtitle:
-  #     text:
-  #     count: 5
-  #     filters:
-  #       author: ''
-  #       category: ''
-  #       exclude_featured: false
-  #       publication_type: ''
-  #       tag: ''
-  #     offset: 0
-  #     order: desc
-  #     page_type: post
-  #   design:
-  #     view: card
-  #     columns: '1'
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+    design:
+      columns: '1'
+
+  - block: collection
+    content:
+      title: Latest News
+      subtitle:
+      text:
+      count: 1
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
   
   # - block: markdown
   #   content:
@@ -57,25 +66,16 @@ sections:
   #       padding: ['20px', '0', '20px', '0']
   #     css_class: fullscreen
 
-  # - block: collection
-  #   content:
-  #     title: Latest Preprints
-  #     text: ""
-  #     count: 5
-  #     filters:
-  #       folders:
-  #         - publication
-  #       publication_type: 'article'
-  #   design:
-  #     view: citation
-  #     columns: '1'
-
-  - block: markdown
+  - block: collection
     content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+      title: Latest Publications
+      text: ""
+      count: 3
+      filters:
+        folders:
+          - publication
+        publication_type: 'paper-conference'
     design:
+      view: citation
       columns: '1'
 ---
