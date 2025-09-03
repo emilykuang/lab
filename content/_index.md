@@ -15,8 +15,12 @@ sections:
       text: |
         <br>
         
-        The <b>COCOA (CO-designing COllaborations with AI)</b> Lab explores how humans and AI can collaborate effectively, designing intelligent interactive systems that enhance human productivity and empower diverse users. 
-        We combine Human-Computer Interaction, AI, and accessibility research to create  collaborative tools and adaptive interfaces that support real-world tasks and emerging virtual experiences.
+        <small>The <b>COCOA (CO-designing COllaborations with AI)</b> Lab explores how humans and AI can collaborate effectively, designing intelligent interactive systems that enhance human productivity and empower diverse users. 
+        We combine Human-Computer Interaction, AI, and accessibility research to create  collaborative tools and adaptive interfaces that support real-world tasks and emerging virtual experiences.</small>
+
+        <br>
+
+        <small>We are part of the <a href="https://gamay-hub.github.io/">Graphics and Media at York (GaMaY) Hub</a>.</small>
   
   - block: markdown
     content:
