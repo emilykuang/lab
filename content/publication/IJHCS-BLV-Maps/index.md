@@ -13,7 +13,7 @@ author_notes:
 - "Equal contribution"
 
 date: "2025-11-14T00:00:00Z"
-doi: "10.1145/3711931"
+doi: "10.1016/j.ijhcs.2025.103682"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-11-14T00:00:00Z"
