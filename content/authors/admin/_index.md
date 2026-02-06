@@ -10,7 +10,7 @@ last_name: Kuang
 superuser: true
 
 # Role/position
-role: Assistant Professor of Electrical Engineering and Computer Science
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
