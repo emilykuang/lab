@@ -7,3 +7,22 @@
 .cta-group {
   justify-content: center;
 }
+
+
+.sponsor-section {
+  .sponsor-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 30px;
+    align-items: center;
+    justify-items: center;
+    padding: 20px 0;
+  }
+
+  .sponsor-logo {
+    max-width: 100%;
+    height: auto;
+    max-height: 100px;
+    object-fit: contain;
+  }
+}

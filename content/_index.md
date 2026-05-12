@@ -78,8 +78,23 @@ sections:
       filters:
         folders:
           - publication
-        # publication_type: 'paper-conference'
     design:
       view: citation
       columns: '1'
+
+  - block: markdown
+    content:
+      title: Our Sponsors
+      subtitle: 'We thank the following sponsors for their cash and in-kind contributions to our research.'
+      text: |
+        <div class="sponsor-grid">
+          <img src="/lab/sponsors/NSERC_logo.png" alt="NSERC Logo" class="sponsor-logo">
+          <img src="/lab/sponsors/Mitacs_logo.png" alt="Mitacs Logo" class="sponsor-logo">
+          <img src="/lab/sponsors/LASS_logo.png" alt="Lassonde School of Engineering at York University Logo" class="sponsor-logo">
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['20px', '0', '20px', '0']
+      css_class: sponsor-section
 ---
