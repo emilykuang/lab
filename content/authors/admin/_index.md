@@ -72,7 +72,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
+  - Principal Investigator
 ---
 
 Dr. Emily Kuang applies her expertise in Human-Computer Interaction (HCI) and Artificial Intelligence (AI) to design innovative human-AI collaborative tools that improve usability analysis. Find out more on Dr. Kuang's <a href="https://emilykuang.github.io">homepage</a>.
