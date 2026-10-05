@@ -35,7 +35,11 @@ abstract: 'Over-reliance on AI systems can undermine users'' critical thinking a
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [human-AI collaboration]
+tags:
+- human-AI collaboration
+- user experience
+- visual analytics
+
 
 # Display this page in the Featured widget?
 featured: true

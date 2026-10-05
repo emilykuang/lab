@@ -38,7 +38,11 @@ abstract: 'The global aging trend compels older adults to navigate the evolving 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [accessibility, older adults, VR/AR]
+tags:
+- accessibility
+- older adults
+- VR/AR
+
 
 # Display this page in the Featured widget?
 featured: true

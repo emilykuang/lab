@@ -36,7 +36,11 @@ abstract: 'AI-assisted usability analysis can potentially reduce the time and ef
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [user experience, human-AI collaboration]
+tags:
+- user experience
+- human-AI collaboration
+- visual analytics
+
 
 # Display this page in the Featured widget?
 featured: true

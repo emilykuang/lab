@@ -31,7 +31,11 @@ abstract: 'AI has been increasingly adopted in user experience (UX) analysis, in
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [user experience, human-AI collaboration]
+tags:
+- user experience
+- human-AI collaboration
+- visual analytics
+
 
 # Display this page in the Featured widget?
 featured: true

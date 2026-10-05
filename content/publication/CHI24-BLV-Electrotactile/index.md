@@ -36,7 +36,11 @@ abstract: 'Charts are crucial in conveying information across various fields but
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [accessibility, blind and low-vision]
+tags:
+- accessibility
+- blind and low-vision
+- user experience
+
 
 # Display this page in the Featured widget?
 featured: true

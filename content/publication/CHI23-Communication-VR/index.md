@@ -37,7 +37,11 @@ abstract: 'When living apart, grandparents and grandchildren often use audio-vis
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [accessibility, older adults, VR/AR]
+tags:
+- accessibility
+- older adults
+- VR/AR
+
 
 # Display this page in the Featured widget?
 featured: true

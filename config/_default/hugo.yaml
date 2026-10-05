@@ -38,8 +38,10 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 75
+  quality: 100
   anchor: smart
+  # Maximize generated image sharpness for publication cards and banners.
+  # If the source file is still low-resolution, no processing setting can create detail that is not there.
 timeout: 600000
 taxonomies:
   tag: tags

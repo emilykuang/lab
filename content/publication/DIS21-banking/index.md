@@ -34,7 +34,11 @@ abstract: 'The banking industry has been integrating digital technologies global
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [accessibility, older adults]
+tags:
+- accessibility
+- older adults
+- user experience
+
 
 # Display this page in the Featured widget?
 featured: true

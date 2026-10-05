@@ -26,3 +26,21 @@
     object-fit: contain;
   }
 }
+
+// Keep publication thumbnails and banners from being aggressively cropped,
+// which reduces blur when the source image is smaller than the display area.
+.article-banner,
+.media.stream-item img,
+.card .card-image img,
+.featured-image {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  object-position: center;
+}
+
+// Remove WhatsApp and Weibo share buttons globally.
+.share-btn-whatsapp,
+.share-btn-weibo {
+  display: none !important;
+}

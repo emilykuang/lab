@@ -17,7 +17,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2026-06-13T00:00:00Z'
-doi: '10.48550/arXiv.2604.23129'
+doi: '10.1145/3800645.3813045'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2026-05-11T00:00:00Z'
@@ -36,7 +36,11 @@ abstract: 'Knowledge workers face increasing challenges in synthesizing informat
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [human-AI collaboration, visual analytics]
+tags:
+- human-AI collaboration
+- visual analytics
+- user experience
+
 
 # Display this page in the Featured widget?
 featured: true

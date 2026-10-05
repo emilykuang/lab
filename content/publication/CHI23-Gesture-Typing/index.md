@@ -33,7 +33,11 @@ abstract: 'Older adults increasingly adopt small-screen devices, but limited mot
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [accessibility, older adults]
+tags:
+- accessibility
+- older adults
+- user experience
+
 
 # Display this page in the Featured widget?
 featured: true

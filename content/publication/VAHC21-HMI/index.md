@@ -39,7 +39,11 @@ abstract: This paper describes an ongoing multi-scale visual analytics approach 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [visual analytics]
+tags:
+- visual analytics
+- human-AI collaboration
+- user experience
+
 
 # Display this page in the Featured widget?
 featured: true

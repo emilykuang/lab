@@ -29,26 +29,29 @@ abstract: 'Reviewing a think-aloud video is both time-consuming and demanding as
 summary: ''
 
 tags:
-- Visual Analytics
+- visual analytics
+- user experience
+- human-AI collaboration
+
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
 url_pdf: ''
-url_code: 'https://github.com/WatVis/CoUX'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.youtube.com/watch?v=uaSl0x4c93Y'
+url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''
-  focal_point: ""
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
@@ -67,11 +70,11 @@ slides: ""
 ---
 
 <!-- {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->

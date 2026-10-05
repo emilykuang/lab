@@ -36,7 +36,11 @@ abstract: 'Incorporating accessibility education into undergraduate computer sci
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [accessibility, education]
+tags:
+- accessibility
+- education
+- user experience
+
 
 # Display this page in the Featured widget?
 featured: true

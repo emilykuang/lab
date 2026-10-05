@@ -34,7 +34,11 @@ abstract: 'Usability testing is vital for enhancing the user experience (UX) of 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [user experience, human-AI collaboration]
+tags:
+- user experience
+- human-AI collaboration
+- visual analytics
+
 
 # Display this page in the Featured widget?
 featured: true

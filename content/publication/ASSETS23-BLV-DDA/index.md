@@ -35,7 +35,11 @@ abstract: 'Being able to analyze and derive insights from data, which we call Da
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [accessibility, blind and low-vision]
+tags:
+- accessibility
+- blind and low-vision
+- user experience
+
 
 # Display this page in the Featured widget?
 featured: true

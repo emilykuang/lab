@@ -37,7 +37,11 @@ abstract: 'Although remote learning is widely used for delivering and capturing 
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [accessibility, blind and low-vision]
+tags:
+- accessibility
+- blind and low-vision
+- older adults
+
 
 # Display this page in the Featured widget?
 featured: true

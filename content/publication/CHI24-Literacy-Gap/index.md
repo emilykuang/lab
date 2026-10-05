@@ -34,7 +34,11 @@ abstract: 'Literacy—the ability to read, write, and comprehend text—is an im
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [accessibility, education]
+tags:
+- accessibility
+- education
+- user experience
+
 
 # Display this page in the Featured widget?
 featured: true

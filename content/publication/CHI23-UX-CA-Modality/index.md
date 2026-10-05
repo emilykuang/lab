@@ -35,7 +35,11 @@ abstract: 'AI is promising in assisting UX evaluators with analyzing usability t
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [User experience, human-AI collaboration]
+tags:
+- user experience
+- human-AI collaboration
+- visual analytics
+
 
 # Display this page in the Featured widget?
 featured: true

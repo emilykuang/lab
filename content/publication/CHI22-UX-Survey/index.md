@@ -33,7 +33,11 @@ abstract: 'Analysis is a key part of usability testing where UX practitioners se
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [user experience]
+tags:
+- user experience
+- human-AI collaboration
+- visual analytics
+
 
 # Display this page in the Featured widget?
 featured: true

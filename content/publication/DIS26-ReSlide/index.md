@@ -15,7 +15,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2026-06-13T00:00:00Z'
-doi: '10.48550/arXiv.2604.21205'
+doi: '10.1145/3800645.3813023'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2026-05-11T00:00:00Z'
@@ -34,7 +34,11 @@ abstract: 'Authoring presentation slides involves navigating contextual constrai
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [visual analytics]
+tags:
+- visual analytics
+- user experience
+- human-AI collaboration
+
 
 # Display this page in the Featured widget?
 featured: true

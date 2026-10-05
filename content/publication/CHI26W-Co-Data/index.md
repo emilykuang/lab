@@ -33,7 +33,11 @@ abstract: 'As LLMs enter qualitative data workflows, they are predominantly desi
 # Summary. An optional shortened abstract.
 summary: ''
 
-tags: [human-AI collaboration]
+tags:
+- human-AI collaboration
+- user experience
+- visual analytics
+
 
 # Display this page in the Featured widget?
 featured: true
